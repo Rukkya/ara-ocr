@@ -29,7 +29,7 @@ This project implements an Arabic OCR (Optical Character Recognition) system tha
 
 1. Clone the repository:
    ```
-   git clone https://github.com/rukkya/arabic-ocr-system.git
+   git clone https://github.com/rukkya/ara-ocr.git
    cd arabic-ocr-system
    ```
 
