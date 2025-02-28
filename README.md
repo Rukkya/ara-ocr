@@ -75,18 +75,6 @@ arabic-ocr-system/
 └── package.json            # Node.js dependencies
 ```
 
-## Future Improvements
-
-- Integration with actual OCR models (currently using mock implementations)
-- Support for batch processing of multiple images
-- Advanced image preprocessing options
-- User authentication and history tracking
-- Export options for extracted text
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - KHATT Dataset for providing the training data
